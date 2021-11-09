@@ -14,11 +14,11 @@ GJAMAssist is an open source Flutter-based template for a business assistant app
 ### Screenshots
 
 <p align="center">
-    <img src="https://github.com/GJAMAssist/blob/master/assets/images/PS-2.png" alt="Ledger statements" width="200"/>
-    <img src="https://github.com/GJAMAssist/blob/master/assets/images/PS-1.png" alt="GST Invoices" width="200"/>
-    <img src="https://github.com/GJAMAssist/blob/master/assets/images/PS-3.png" alt="Invoice PDFs" width="200"/>
-    <img src="https://github.com/GJAMAssist/blob/master/assets/images/PS-4.png" alt="Dashboard" width="200"/>
-    <img src="https://github.com/GJAMAssist/blob/master/assets/images/PS-5.png" alt="Menu" width="200"/>
+    <img src="https://github.com/Japangor/GJAM-ASSIST/blob/main/assets/images/PS-2.png" alt="Ledger statements" width="200"/>
+    <img src="https://github.com/Japangor/GJAM-ASSIST/blob/main/assets/images/PS-1.png" alt="GST Invoices" width="200"/>
+    <img src="https://github.com/Japangor/GJAM-ASSIST/blob/main/assets/images/PS-3.png" alt="Invoice PDFs" width="200"/>
+    <img src="https://github.com/Japangor/GJAM-ASSIST/blob/main/assets/images/PS-4.png" alt="Dashboard" width="200"/>
+    <img src="https://github.com/Japangor/GJAM-ASSIST/blob/main/assets/images/PS-5.png" alt="Menu" width="200"/>
 </p>
 
 ## Setup
